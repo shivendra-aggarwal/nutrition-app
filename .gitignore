@@ -1,0 +1,8 @@
+node_modules
+pub
+build
+cdn
+src/bower_components
+src/app/config.constant.js
+src/public/lib
+coverage

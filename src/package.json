@@ -1,0 +1,19 @@
+{
+  "name": "nutrition-app",
+  "version": "1.0.0",
+  "description": "app to help extract nutrition information by identification of real time object",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nutrition-app"
+  },
+  "author": "shivendra, gaurav, santosh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {}
+}
